@@ -1,0 +1,11 @@
+Model Information:
+* title:	P9 Manny FPS Animations
+* source:	https://sketchfab.com/3d-models/p9-manny-fps-animations-115d4d820b9a45d89c8d75dd0f244bbe
+* author:	Cransh (https://sketchfab.com/ccransh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "P9 Manny FPS Animations" (https://sketchfab.com/3d-models/p9-manny-fps-animations-115d4d820b9a45d89c8d75dd0f244bbe) by Cransh (https://sketchfab.com/ccransh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
